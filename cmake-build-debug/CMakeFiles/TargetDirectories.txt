@@ -1,0 +1,3 @@
+/Users/nathaliamilani/CLionProjects/oasis2/cmake-build-debug/CMakeFiles/oasis2.dir
+/Users/nathaliamilani/CLionProjects/oasis2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nathaliamilani/CLionProjects/oasis2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
